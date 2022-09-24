@@ -1,2 +1,1 @@
-# python-interview-prep
-Python Developer Job Interview Preparation.
+# Python Interview Preparation with Sample Questions and Answers
