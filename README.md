@@ -15,6 +15,6 @@
 1. Inheritance (Single/Multiple)
 1. Dunder Methods (Double Underscore/Special)
 1. Metaclass
-1. Decorators
-1. Generators
-1. 
+1. Decorator
+1. Generator
+1. Context Manager
