@@ -1,4 +1,4 @@
-# Python Interview Preparation with Sample Questions and Answers
+# Core Python Interview Topics
 
 
 1. Basic Data Types (int, string, float)
