@@ -3,6 +3,7 @@
 
 1. Basic Data Types `int`, `string`, `float`
 1. Data Structures `list`, `tuple`, `dict`, `set`, `frozenset`
+1. `list` vs `set`, `list` vs `dict`, `list` vs `tuple`
 1. Mutable vs Immutable Types
 1. Identity Operator `is`
 1. Hashable vs Unhashable Types
