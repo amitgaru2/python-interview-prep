@@ -4,6 +4,7 @@
 1. Basic Data Types `int`, `string`, `float`
 1. Data Structures `list`, `tuple`, `dict`, `set`, `frozenset`
 1. Mutable vs Immutable Types
+1. Identity Operator `is`
 1. Hashable vs Unhashable Types
 1. Positional Arguments vs Keyword Arguments
 1. *args, **kwargs
@@ -20,5 +21,4 @@
 1. Generator
 1. Context Manager
 1. List Comprehension, Dictionary Comprehension, Set Comprehension
-1. Identity Operator `is`
 1. Statements and its functions: `pass`, `break`, `continue`
