@@ -1,7 +1,7 @@
 # Core Python Interview Topics
 
 
-1. Basic Data Types `int`, `string`, `float`
+1. Basic Data Types `int`, `string`, `float`, `bool` | [here](https://github.com/dxillar/python-interview-prep/blob/main/basic-data-types.md)
 1. Data Structures `list`, `tuple`, `dict`, `set`, `frozenset`
 1. `list` vs `set`, `list` vs `dict`, `list` vs `tuple`
 1. Mutable vs Immutable Types
