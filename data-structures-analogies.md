@@ -16,3 +16,4 @@ S.N. | list | set
 4 | set operations are impractical | best suited for set operations
 5 | membership check operation `in` takes `O(n)` complexity | membership check operation `in` takes `O(1)` complexity
 6 | any data types could be a member | only hashable types could be a member
+7 | removing of a member `pop` takes `O(n)` complexity | removing of a member `pop/remove` takes `O(1)` complexity
