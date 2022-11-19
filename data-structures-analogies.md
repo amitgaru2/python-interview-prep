@@ -1,6 +1,12 @@
 # Data Structures' Analogies
 
 
+## list vs tuple
+S.N. | list | tuple
+--- | --- | ---
+1 | mutable | immutable
+
+
 ## list vs set
 S.N. | list | set
 --- | --- | ---
