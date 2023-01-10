@@ -5,6 +5,7 @@
 S.N. | list | tuple
 --- | --- | ---
 1 | mutable | immutable
+2 | [1, 2, 3, 4] | (1, 2, 3, 4)
 
 
 ## list vs set
