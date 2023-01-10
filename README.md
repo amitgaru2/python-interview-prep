@@ -4,7 +4,7 @@
 1. [Basic Data Types](https://github.com/dxillar/python-interview-prep/blob/main/basic-data-types.md) `int`, `string`, `float`, `bool`
 1. [Data Structures](https://github.com/dxillar/python-interview-prep/blob/main/inbuilt-data-structures.md) `list`, `tuple`, `dict`, `set`, `frozenset`
 1. [Data Structures' Analogies](https://github.com/dxillar/python-interview-prep/blob/main/data-structures-analogies.md) (`list vs set`, `list vs dict`, `list vs tuple`)
-1. Mutable vs Immutable Types
+1. [Mutable vs Immutable Types](https://github.com/dxillar/python-interview-prep/blob/main/mutable-vs-immutable-types.md)
 1. Identity Operator `is`
 1. Hashable vs Unhashable Types
 1. Positional Arguments vs Keyword Arguments
