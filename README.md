@@ -28,7 +28,8 @@
 
 
 # Data Structure / Problem Solving Questions
-1. Find the common elements between any two list (with complexity analysis).
+1. Find the common elements between any two `list` (with complexity analysis).
+1. Explain the time complexity to pop a element from a `list`.
 
 
 # Other Questions
