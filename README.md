@@ -7,7 +7,7 @@
 1. [Mutable vs Immutable Types](https://github.com/dxillar/python-interview-prep/blob/main/mutable-vs-immutable-types.md)
 1. [Identity Operator `is`](https://github.com/dxillar/python-interview-prep/blob/main/identity-operator.md)
 1. Hashable vs Unhashable Types
-1. Positional Arguments vs Keyword Arguments
+1. [Positional Arguments vs Keyword Arguments](https://github.com/dxillar/python-interview-prep/blob/main/positional-keyword-arguments.md)
 1. `*args`, `**kwargs`
 1. Memory management in Python
 1. Global Interpreter Lock (GIL)
