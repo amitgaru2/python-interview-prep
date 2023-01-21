@@ -18,7 +18,7 @@
 1. [Inheritance](https://github.com/dxillar/python-interview-prep/blob/main/inheritance.md) (Single/Multiple)
 1. Dunder Methods (Double Underscore/Special)
 1. Operator Overloading
-1. Metaclass
+1. [Metaclass](https://github.com/dxillar/python-interview-prep/blob/main/metaclass.md)
 1. [Decorator](https://github.com/dxillar/python-interview-prep/blob/main/decorator.md)
 1. [Generator](https://github.com/dxillar/python-interview-prep/blob/main/generator.md)
 1. [Context Manager](https://github.com/dxillar/python-interview-prep/blob/main/context-manager.md)
