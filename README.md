@@ -20,7 +20,7 @@
 1. Operator Overloading
 1. Metaclass
 1. [Decorator](https://github.com/dxillar/python-interview-prep/blob/main/decorator.md)
-1. Generator
+1. [Generator](https://github.com/dxillar/python-interview-prep/blob/main/generator.md)
 1. Context Manager
 1. List Comprehension, Dictionary Comprehension, Set Comprehension
 1. Statements and its functions: `pass`, `break`, `continue`
