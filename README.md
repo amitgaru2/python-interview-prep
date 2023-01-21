@@ -19,7 +19,7 @@
 1. Dunder Methods (Double Underscore/Special)
 1. Operator Overloading
 1. Metaclass
-1. Decorator
+1. [Decorator](https://github.com/dxillar/python-interview-prep/blob/main/decorator.md)
 1. Generator
 1. Context Manager
 1. List Comprehension, Dictionary Comprehension, Set Comprehension
