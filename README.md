@@ -5,7 +5,7 @@
 1. [Data Structures](https://github.com/dxillar/python-interview-prep/blob/main/inbuilt-data-structures.md) `list`, `tuple`, `dict`, `set`, `frozenset`
 1. [Data Structures' Analogies](https://github.com/dxillar/python-interview-prep/blob/main/data-structures-analogies.md) (`list vs set`, `list vs dict`, `list vs tuple`)
 1. [Mutable vs Immutable Types](https://github.com/dxillar/python-interview-prep/blob/main/mutable-vs-immutable-types.md)
-1. [Identity Operator](https://github.com/dxillar/python-interview-prep/blob/main/identity-operator.md) `is`
+1. [Identity Operator](https://github.com/dxillar/python-interview-prep/blob/main/identity-operator.md) `is`, `is not`
 1. Hashable vs Unhashable Types
 1. [Positional Arguments vs Keyword Arguments](https://github.com/dxillar/python-interview-prep/blob/main/positional-keyword-arguments.md)
 1. [`*args`, `**kwargs`](https://github.com/dxillar/python-interview-prep/blob/main/args-kwargs.md)
