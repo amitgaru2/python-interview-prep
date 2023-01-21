@@ -8,7 +8,7 @@
 1. [Identity Operator](https://github.com/dxillar/python-interview-prep/blob/main/identity-operator.md) `is`
 1. Hashable vs Unhashable Types
 1. [Positional Arguments vs Keyword Arguments](https://github.com/dxillar/python-interview-prep/blob/main/positional-keyword-arguments.md)
-1. `*args`, `**kwargs`
+1. [`*args`, `**kwargs`](https://github.com/dxillar/python-interview-prep/blob/main/args-kwargs.md)
 1. [Memory management in Python](https://github.com/dxillar/python-interview-prep/blob/main/memory-management-in-python.md)
 1. [Global Interpreter Lock](https://github.com/dxillar/python-interview-prep/blob/main/gil.md) (GIL)
 1. [Namespaces and Scope](https://github.com/dxillar/python-interview-prep/blob/main/namespaces-and-scope.md)
