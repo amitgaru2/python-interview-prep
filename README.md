@@ -17,7 +17,7 @@
 1. [Memoization](https://github.com/dxillar/python-interview-prep/blob/main/memoization.md)
 1. [Inheritance](https://github.com/dxillar/python-interview-prep/blob/main/inheritance.md) (Single/Multiple)
 1. Dunder Methods (Double Underscore/Special)
-1. Operator Overloading
+1. [Operator overloading in Python](https://github.com/dxillar/python-interview-prep/blob/main/operator-overloading-in-python.md)
 1. [Metaclass](https://github.com/dxillar/python-interview-prep/blob/main/metaclass.md)
 1. [Decorator](https://github.com/dxillar/python-interview-prep/blob/main/decorator.md)
 1. [Generator](https://github.com/dxillar/python-interview-prep/blob/main/generator.md)
