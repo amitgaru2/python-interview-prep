@@ -15,7 +15,7 @@
 1. Multithreading (I/O Bound) and Multiprocessing (CPU Bound) in Python
 1. Co-operative multitasking (async/await)
 1. [Memoization](https://github.com/dxillar/python-interview-prep/blob/main/memoization.md)
-1. Inheritance (Single/Multiple)
+1. [Inheritance](https://github.com/dxillar/python-interview-prep/blob/main/inheritance.md) (Single/Multiple)
 1. Dunder Methods (Double Underscore/Special)
 1. Operator Overloading
 1. Metaclass
