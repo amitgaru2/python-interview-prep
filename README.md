@@ -5,12 +5,12 @@
 1. [Data Structures](https://github.com/dxillar/python-interview-prep/blob/main/inbuilt-data-structures.md) `list`, `tuple`, `dict`, `set`, `frozenset`
 1. [Data Structures' Analogies](https://github.com/dxillar/python-interview-prep/blob/main/data-structures-analogies.md) (`list vs set`, `list vs dict`, `list vs tuple`)
 1. [Mutable vs Immutable Types](https://github.com/dxillar/python-interview-prep/blob/main/mutable-vs-immutable-types.md)
-1. [Identity Operator `is`](https://github.com/dxillar/python-interview-prep/blob/main/identity-operator.md)
+1. [Identity Operator](https://github.com/dxillar/python-interview-prep/blob/main/identity-operator.md) `is`
 1. Hashable vs Unhashable Types
 1. [Positional Arguments vs Keyword Arguments](https://github.com/dxillar/python-interview-prep/blob/main/positional-keyword-arguments.md)
 1. `*args`, `**kwargs`
 1. Memory management in Python
-1. Global Interpreter Lock (GIL)
+1. [Global Interpreter Lock](https://github.com/dxillar/python-interview-prep/blob/main/gil.md) (GIL)
 1. [Namespaces and Scope](https://github.com/dxillar/python-interview-prep/blob/main/namespaces-and-scope.md)
 1. Multithreading (I/O Bound) and Multiprocessing (CPU Bound) in Python
 1. Co-operative multitasking (async/await)
