@@ -28,7 +28,7 @@
 
 
 # Data Structure / Problem Solving Questions
-1. Find the common elements between any two `list` (with complexity analysis).
+1. [Find the common elements between any two `list` (with complexity analysis)](https://github.com/dxillar/python-interview-prep/blob/main/data-strucuture/common-elements-between-list.md).
 1. Explain the time complexity to pop an element from a `list`.
 
 
