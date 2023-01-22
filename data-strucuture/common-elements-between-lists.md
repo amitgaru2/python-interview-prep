@@ -1,4 +1,4 @@
-# Find the common elements between any two list (with complexity analysis).
+# Find the common elements between two lists (with complexity analysis).
 
 ```python
 
